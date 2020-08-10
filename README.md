@@ -3,6 +3,7 @@
 
 
 ### References
+https://github.com/etfovac/wmm-c/tree/master/refs
 https://ngdc.noaa.gov/geomag/WMM/soft.shtml
 
 ### License
