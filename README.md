@@ -1,5 +1,5 @@
 # WMM Point Calculation C++ console uses C DLL  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/wmm-c/blob/master/LICENSE)
- WMM Point Calculation C++ console uses WMM's C DLL instead of WMM's <em>GeomagnetismLibrary.c</em>   
+ WMM Point Calculation C++ console (based on C Console) uses WMM's C DLL instead of WMM's <em>GeomagnetismLibrary.c</em>   
  (outdated, uses 2014/2015 release from <a href="https://ngdc.noaa.gov/geomag/WMM/soft.shtml">The World Magnetic Model and Associated Software</a>  )
 
 ### Keywords:
